@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./prodromusfaunaem02caru/prodromusfaunaem02caru_0010.png"; bbox 0 0 2232 3423; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 557 3011 837 3090">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 512 3011 837 3094">
+     <span class='ocr_line' id='line_1_1' title="bbox 557 3011 837 3090; baseline 0.003 -12.862"><span class='ocrx_word' id='word_1_1' title='bbox 557 3011 837 3090; x_wconf 44' lang='lat' dir='ltr'><strong>425&amp;thae</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 837 3027 903 3077">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 837 3027 903 3077">
+     <span class='ocr_line' id='line_1_2' title="bbox 837 3027 903 3077; textangle 180"><span class='ocrx_word' id='word_1_2' title='bbox 837 3027 903 3077; x_wconf 96' lang='grc' dir='ltr'><strong>Ψ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2228 3423">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2228 3423">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2228 3423; textangle 180"><span class='ocrx_word' id='word_1_3' title='bbox 0 0 2228 3423; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
